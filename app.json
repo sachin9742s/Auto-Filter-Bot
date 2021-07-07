@@ -31,8 +31,15 @@
         "MAINCHANNEL_ID": {
             "description": "ID of Channel from which the bot should search files",
             "value": ""
-        }
-    },
+        },
+        "JOIN_MAIN_CHANNEL": {
+            "description": "ID of Channel from which the bot should Join The Main Channel",
+            "value": ""
+        },
+        "TEXT_MEG_PH": {
+            "description": "Your Channel Logo @MT_Telegraph_BoT ",
+            "value"; ""
+   },
     "buildpacks": [
         {
             "url": "heroku/python"
